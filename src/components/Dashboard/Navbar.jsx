@@ -6,7 +6,7 @@ function Navbar() {
    <nav className="bg-white dark:bg-white-900 text-black fixed w-full z-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600">
   <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
    
-      <h2 className='ml-10 text-xl font-bold'>Presented By Rupesh Varshney</h2>
+      <h2 className='ml-10 text-xl font-bold'>Presented By Sushant Varshney</h2>
  
 
     <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
